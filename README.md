@@ -29,15 +29,15 @@ I like soft colors, clean layouts, and things that actually work.
 
 ### projects
 
-**miit-bot** — Telegram bot for MIIT university schedule. Written in Python.
+**[miit-bot](ссылка)** — Telegram bot for MIIT university schedule. Written in Python.
 
-**travel agency website** — full-cycle web app with booking and admin panel. Diploma project.
+**[travel agency website](ссылка)** — full-cycle web app with booking and admin panel. Diploma project.
 
-**istary comics** — manga store with IndexedDB.
+**[istary comics](ссылка)** — manga store with IndexedDB.
 
-**the svechi** — handmade candles shop with Firebase.
+**[the svechi](ссылка)** — handmade candles shop with Firebase.
 
-**motiko** — Japanese desserts store, deployed on Netlify.
+**[motiko](ссылка)** — Japanese desserts store, deployed on Netlify.
 
 ---
 
