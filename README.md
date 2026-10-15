@@ -28,10 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/geodeerbe/geodeerbe/blob/main/Group%2064.png?raw=true" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/geodeerbe/travel-agency-website">
     <img src="https://github.com/geodeerbe/geodeerbe/blob/main/Group%2030.png?raw=true" width="200" />
   </a>
@@ -41,6 +37,10 @@
   <a href="https://github.com/geodeerbe/the-svechi">
     <img src="https://github.com/geodeerbe/geodeerbe/blob/main/Group%2032.png?raw=true" width="200" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/geodeerbe/geodeerbe/blob/main/Group%2064.png?raw=true" width="100%" />
 </p>
 
 <p align="center">
