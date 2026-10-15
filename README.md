@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/@geodeerbe">
+  <a href="https://discord.com/users/824277103457337365">
     <img src="https://github.com/geodeerbe/geodeerbe/blob/main/Group%2026.png?raw=true" width="180" />
   </a>
   <a href="https://linkedin.com/in/geodeerbe">
