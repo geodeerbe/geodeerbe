@@ -1,57 +1,54 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/20/00/592000b1e7a03a992f64c75be16bb891.jpg" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/8b/6c/9f/8b6c9f5878749c767b337e2ae1f99a8e.jpg" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center">Привет, я geodeerbe</h1>
+<h1 align="center">geodeerbe</h1>
 
 <p align="center">
-  Applied Informatics student · Web Development & UI/UX Design
+  <i>welcome to my little corner of the internet</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFB6C1?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## About
+### about me
 
-I study Applied Informatics and work on web projects. My focus is on building clean, responsive interfaces and functional web applications. I also have experience in UI/UX design and data analysis.
+Applied Informatics student. I design and build websites — from the first sketch in Figma to a working product with Firebase.
 
-- Studying at Russian University of Transport (MIIT)
-- Interested in web development, UI/UX design, and data
-- Open to internships and collaboration
+I like soft colors, clean layouts, and things that actually work.
 
 ---
 
-## Skills
+### projects
 
-**Frontend**
-HTML5 · CSS3 · JavaScript · Responsive Design
+**miit-bot** — Telegram bot for MIIT university schedule. Written in Python.
 
-**Backend & Data**
-Firebase · Firestore · Python · SQL
+**travel agency website** — full-cycle web app with booking and admin panel. Diploma project.
 
-**Design**
-Figma · Adobe Photoshop · Adobe Illustrator
+**istary comics** — manga store with IndexedDB.
 
-**Tools**
-Git · GitHub · VS Code · Netlify
+**the svechi** — handmade candles shop with Firebase.
+
+**motiko** — Japanese desserts store, deployed on Netlify.
 
 ---
 
-## Projects
+### skills
 
-**miit-bot** — Telegram bot for MIIT university schedule (Python)
-
-**Travel Agency Website** — Full-cycle web application with booking and admin panel (HTML, CSS, JavaScript, Firebase)
-
-**Istary Comics** — Manga store with client-side data storage (HTML, CSS, JavaScript, IndexedDB)
-
-**The Svechi** — Handmade candles store with Firebase integration
-
-**Motiko** — Japanese desserts store, deployed on Netlify
+HTML · CSS · JavaScript · Firebase · Figma · Python · Git · GitHub · VS Code
 
 ---
 
-## Connect
-
-Telegram: [@geodeerbe](https://t.me/geodeerbe)
-LinkedIn: [geodeerbe](https://linkedin.com/in/geodeerbe)
-Email: zaraeva13j13@gmail.com
+<p align="center">
+  <a href="https://t.me/geodeerbe">telegram</a> ·
+  <a href="https://linkedin.com/in/geodeerbe">linkedin</a> ·
+  <a href="mailto:zaraeva13j13@gmail.com">email</a>
+</p>
